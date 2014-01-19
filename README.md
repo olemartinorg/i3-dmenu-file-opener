@@ -12,3 +12,8 @@ All arguments that are passed to the script are passed on to dmenu. I'd recommen
 `./dmenu_fo.sh -p "open file" -l 10 -i`
 
 And whatever font settings you normally use.
+
+Demo
+----
+
+![Demo](https://github.com/olemartinorg/i3-dmenu-file-opener/raw/master/demo.gif "Demo gif")
